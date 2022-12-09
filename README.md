@@ -18,4 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Notes
 
-Project was built with [NextJS](https://nextjs.org/), [Chakru UI](https://chakra-ui.com/), [socket.io](https://socket.io/), and [wagmi](https://wagmi.sh/).
+Project was built with [NextJS](https://nextjs.org/), [Chakru UI](https://chakra-ui.com/), [socket.io](https://socket.io/), and [wagmi](https://wagmi.sh/). Need to research more on switching between different wallets for the same user.
