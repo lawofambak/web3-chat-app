@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Demo
 
+![Chat App Intro](chat-app-intro.gif) ![Chat App Messaging](chat-app-message.gif)
+
 ## Notes
 
 Project was built with [NextJS](https://nextjs.org/), [Chakru UI](https://chakra-ui.com/), [socket.io](https://socket.io/), and [wagmi](https://wagmi.sh/).
